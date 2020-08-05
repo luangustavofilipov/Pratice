@@ -13,3 +13,20 @@ div.topo{
 img.logo{
   padding: 8px 0;
 }
+
+.barra ul{
+  list-style: none;
+  float: left;
+  width: 600px;
+}
+
+.barra ul a{
+  color: #000;
+  float: left;
+  margin: 5px 20px 0px 0px ;
+  text-decoration: none;
+}
+
+.barra ul a:hover{
+  color: rgb(10, 55, 255);
+}
