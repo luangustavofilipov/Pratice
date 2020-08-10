@@ -1,0 +1,18 @@
+New favicons
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch feature/implement-favicon
+# Changes to be committed:
+#	new file:   img/android-chrome-192x192.png
+#	new file:   img/android-chrome-256x256.png
+#	new file:   img/apple-touch-icon.png
+#	new file:   img/browserconfig.xml
+#	new file:   img/favicon-16x16.png
+#	new file:   img/favicon-32x32.png
+#	new file:   img/favicon.ico
+#	new file:   img/mstile-150x150.png
+#	new file:   img/safari-pinned-tab.svg
+#	new file:   img/site.webmanifest
+#	modified:   index.html
+#
